@@ -25,7 +25,7 @@ function App() {
           sources: {
             basemap: {
               type: "vector",
-              url: "pmtiles://https://kaart.sfo3.digitaloceanspaces.com/testFolder/20230918.pmtiles",
+              url: "your basemap url",
             },
           },
           layers: layers("basemap", "light"),
